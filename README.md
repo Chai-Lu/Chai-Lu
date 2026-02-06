@@ -39,8 +39,7 @@ Description: |
 ### ◢ 遥测数据 (TELEMETRY)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chai-Lu&show_icons=true&count_private=true&border_radius=0&hide_border=true&bg_color=0a0a0a&title_color=95c729&text_color=e5e5e5&icon_color=95c729&date_format=j%20M%5B%20Y%5D" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chai-Lu&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chai-Lu&theme=tokyonight" /
   <br/><br/><img src="https://komarev.com/ghpvc/?username=Chai-Lu&label=NET_TRAFFIC&color=95c729&style=for-the-badge" />
 </div>
 
